@@ -1,0 +1,100 @@
+
+.up {
+    text-transform: uppercase;
+}
+
+.card-block {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+     
+}
+
+
+.t:hover {
+      box-shadow: 0px 5px 2px 0px rgb(108, 68, 252), 0px 0px 0px 4px rgba(107, 74, 255, 0);
+
+}
+
+
+
+
+.btn {
+  margin-top: auto;
+}
+
+.t img {
+    
+    width: auto;
+    height: 80px;
+    margin-left: auto ;
+    margin-right: auto ;
+    transform: translateY(-30%) ;
+    border-radius: 50%;
+    overflow: hidden ;
+    position: relative ;
+    z-index: 4 ;
+    box-shadow: 0px 5px 50px 0px rgb(108, 68, 252), 0px 0px 0px 4px rgba(107, 74, 255, 0.5);
+    background: white;
+    padding: 3px;
+}
+
+.t {
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+   background-color:white !important;
+   border-radius: 10px;
+   cursor: pointer;
+   transition: 0.2s;
+}
+
+.bordaVerde img{
+    width: auto;
+    height: 80px;
+    margin-left: auto ;
+    margin-right: auto ;
+    transform: translateY(-30%) ;
+    border-radius: 50%;
+    overflow: hidden ;
+    position: relative ;
+    z-index: 4 ;
+    box-shadow: 0px 5px 50px 0px rgba(215, 40, 40, 0.4), 0px 0px 0px 4px rgba(215, 40, 40, 0.9);
+    background: white;
+    padding: 3px;
+}
+
+.bordaVerde {
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+   background-color:white !important;
+   border-radius: 10px;
+   cursor: pointer;
+}
+
+.bordaAmarela img{
+    width: auto;
+    height: 80px;
+    margin-left: auto ;
+    margin-right: auto ;
+    transform: translateY(-30%) ;
+    border-radius: 50%;
+    overflow: hidden ;
+    position: relative ;
+    z-index: 4 ;
+    box-shadow: 0px 5px 50px 0px rgba(255, 238, 44, 0.9), 0px 0px 0px 4px rgba(255, 238, 44, 0.9);
+    background: #FAF9FF;
+    padding: 3px;
+}
+
+.bordaAmarela {
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+   background-color:white !important;
+   border-radius: 10px;
+   cursor: pointer;
+}
+ 
+ 
+
+ 
